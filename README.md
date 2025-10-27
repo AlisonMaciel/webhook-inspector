@@ -349,7 +349,7 @@ Este projeto está sob a licença ISC.
 
 ## 👥 Autores
 
-Desenvolvido com ❤️ por sua equipe de desenvolvimento.
+Desenvolvido com ❤️ por Alison Betini.
 
 ---
 
