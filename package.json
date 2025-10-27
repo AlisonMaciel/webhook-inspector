@@ -1,0 +1,11 @@
+{
+  "name": "node-react",
+  "version": "1.0.0",
+  "description": "Projeto Full-Stack",
+  "workspaces": [
+    "api",
+    "web"
+  ],
+  "private":"true",
+  "license": "ISC"
+}

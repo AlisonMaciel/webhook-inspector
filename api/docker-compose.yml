@@ -1,0 +1,10 @@
+services:
+  postgress:
+    image: postgres:17
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: docker
+      POSTGRES_PASSWORD: docker
+      POSTGRES_DB: webhooks
+    ports:
+      - '5432:5432'
